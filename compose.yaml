@@ -1,0 +1,14 @@
+version: '1.0'
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: rentread-mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: yourpassword
+      MYSQL_DATABASE: rentread
+      MYSQL_USER: user
+      MYSQL_PASSWORD: userpassword
+    ports:
+      - "3306:3306"
+    restart: always
