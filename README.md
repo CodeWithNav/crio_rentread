@@ -38,6 +38,6 @@ java -jar rentread-0.0.1-SNAPSHOT.jar
 5. Make sure to have the MySQL database running.
 
 ## Postman Collection
-The Postman collection for the API endpoints is available [here](https://www.postman.com/telecoms-astronomer-41589421/workspace/crio/collection/33264336-df835b70-97e0-4904-94e1-b8b723c86090?action=share&creator=33264336).
+The Postman collection for the API endpoints is available [here]
 
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/33264336-df835b70-97e0-4904-94e1-b8b723c86090?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D33264336-df835b70-97e0-4904-94e1-b8b723c86090%26entityType%3Dcollection%26workspaceId%3D93ffd489-3e02-4aec-9693-c4f3cc8777e1)
